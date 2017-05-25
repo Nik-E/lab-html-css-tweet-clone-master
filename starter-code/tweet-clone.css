@@ -1,0 +1,76 @@
+.background{
+  background-color: rgb(244, 248, 249);
+
+}
+
+.user-name{
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  position: relative;
+  margin-bottom:0px;
+}
+.user-account{
+  font-size: 26px;
+  color: rgb(104,109,129);
+  position:relative;
+  right:7px;
+  padding-left: 0px;
+}
+.validated-account{
+  position: relative;
+  top: 4px;
+}
+
+.text{
+  color: rgb(0, 0, 0);
+  font-size: 28.5px;
+  margin-bottom: 9px;
+}
+
+.inner-box{
+  background-color: rgb(255, 255, 255);
+  border: 1.25px solid rgb(225, 232, 237);
+  border-radius: 7px;
+  font-family: helvetica;
+  padding: 5px 30px 0px 30px;
+
+}
+.follow-button{
+  color: rgba(85, 172, 238, 0.95);
+  font-size: 26px;
+  text-align: center;
+  border: 1.5px solid rgba(85, 172, 238, 0.75);
+  border-radius: 7px;
+  position: relative;
+  bottom: 215px;
+  left: 1195px;
+  padding: 10px 20px 12px 20px;
+}
+.twitter-logo{
+  position: relative;
+  top: 7px;
+}
+.profile-picture{
+  float: left;
+  margin: 0px 20px 5px 0px;
+}
+
+.date{
+  font-size: 25px;
+  color: rgb(101, 116,127);
+  margin-bottom: 0px;
+}
+.bottom-text{
+  font-size: 28px;
+  color: rgb(105, 120, 130);
+  margin-top:20px;
+  margin-bottom: 0px;
+}
+.reply-button{
+  margin-right: 25px;
+}
+.retweet{
+  margin-right: 15px;
+  font-size: 28px;
+}
